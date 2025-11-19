@@ -17,30 +17,24 @@ Simple Attendance Monitoring is a Laravel-based web application that provides a 
 
 ## Installation Instructions
 1. **Clone the repository and navigate into the directory:**
-   ```bash
+     ```bash
    git clone https://github.com/burniku/Attendance-Monitoring-Laravel
    cd Attendance-Monitoring-Laravel
    ```
-
-2. **Install PHP dependencies:**
-```bash
+2.  **Install PHP dependencies:**
+   ```bash
 composer install
 ```
-
-3. **Run migrations (to create the database tables):**
-```bash
+3.  **Run migrations (to create the database tables):**
+   ```bash
 php artisan migrate
 ```
-
-4. **Start the development server:**
-```bash
+4.  **Start the development server:**
+   ```bash
 php artisan serve
 ```
-
-5. **Open the application:**
-Visit http://127.0.0.1:8000
- to start using the Attendance Monitoring System.
-
+5.  **Open the application:**
+   **Visit http://127.0.0.1:8000 to start using the Attendance Monitoring System**
 
 
 # Screenshots
