@@ -36,6 +36,11 @@ php artisan serve
 5.  **Open the application:**
    **Visit http://127.0.0.1:8000 to start using the Attendance Monitoring System**
 
+# Usage
+
+1. Go to the Students page to add new student records.
+2. Go to the Teachers page to add teacher records.
+3. Open the Attendance page to check or review attendance logs.
 
 # Screenshots
 
@@ -44,6 +49,34 @@ php artisan serve
 ![image](https://github.com/user-attachments/assets/4432cb6a-fbae-446d-a7ee-e5a8adfb9698)
 ![image](https://github.com/user-attachments/assets/57ea7354-109b-4d59-964a-2055e4205901)
 ![image](https://github.com/user-attachments/assets/4542d4bc-6b26-4e5b-9ed9-8299e38602cc)
+
+## Contributors
+
+**Brandon Sean Gallardo**
+
+## License
+
+MIT License
+
+Copyright (c) 2025 Brandon Sean Gallardo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
