@@ -1,3 +1,48 @@
+# Simple Attendance Monitoring
+
+## Description / Overview
+Simple Attendance Monitoring is a Laravel-based web application that provides a basic system to manage attendance. Users can **add students**, **add teachers**, and **check attendance records**. It is a simple and clean example of Laravel CRUD operations and basic attendance tracking.
+
+## Goals & Objectives
+- Learn how to build a simple Laravel CRUD application.
+- Understand routing, controllers, and Blade views.
+- Practice database migrations and Eloquent ORM.
+- Build a minimal interface for managing attendance.
+- Implement basic validation and form handling.
+
+## Features / Functionality
+- **Add Students:** Register new students into the system.
+- **Add Teachers:** Add teacher records for attendance assignment.
+- **Check Attendance:** View recorded attendance logs in a simple table.
+
+## Installation Instructions
+1. **Clone the repository and navigate into the directory:**
+   ```bash
+   git clone https://github.com/burniku/Attendance-Monitoring-Laravel
+   cd Attendance-Monitoring-Laravel
+   ```
+
+2. **Install PHP dependencies:**
+```bash
+composer install
+```
+
+3. **Run migrations (to create the database tables):**
+```bash
+php artisan migrate
+```
+
+4. **Start the development server:**
+```bash
+php artisan serve
+```
+
+5. **Open the application:**
+Visit http://127.0.0.1:8000
+ to start using the Attendance Monitoring System.
+
+
+
 # Screenshots
 
 ![image](https://github.com/user-attachments/assets/56c54b80-1303-46aa-b0f5-4859a8ad6593)
