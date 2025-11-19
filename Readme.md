@@ -53,6 +53,7 @@ php artisan serve
 ## Contributors
 
 **Brandon Sean Gallardo**
+**Jan Yuri Reyes**
 
 ## License
 
